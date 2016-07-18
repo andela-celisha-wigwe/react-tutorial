@@ -6,7 +6,22 @@
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
+        "author": "Paul O\u2019Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1468793897628,
+        "author": "Chiojoke",
+        "text": "I like to react well"
+    },
+    {
+        "id": 1468793897629,
+        "author": "Chiojoke",
+        "text": "I like to react well. THis is juse anothe reactive commet. And I really like it."
+    },
+    {
+        "id": 1468793938605,
+        "author": "Roy",
+        "text": "this is just another comment"
     }
 ]
